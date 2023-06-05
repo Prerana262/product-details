@@ -1,0 +1,4 @@
+com\servlet\ProductServlet.class
+com\servlet\ProductDetailsServlet.class
+com\dao\ProductDAO.class
+com\model\Product.class
